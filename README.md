@@ -1,5 +1,6 @@
 # React-to-do-jde
 Uses Local Storage, using hooks.
+credit to @coding-in-public for tutorial and base files
 
 1. to run this app, download all code files
 2. install pnpm
